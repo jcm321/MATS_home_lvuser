@@ -1,0 +1,211 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	Yes
+X_Columns	No
+Time_Pref	Absolute
+Operator	lvuser
+Date	2021/05/31
+Time	23:16:28.6463109999999999688
+***End_of_Header***	
+	
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:28.6463109999999999688	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	1.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:29.6464720000000000466	
+X_Dimension	Time	
+X0	1.0001610000000001E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	2.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:30.6467460000000000431	
+X_Dimension	Time	
+X0	2.0004350000000000E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	3.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:31.6470209999999999573	
+X_Dimension	Time	
+X0	3.0007099999999998E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	4.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:32.6473029999999999617	
+X_Dimension	Time	
+X0	4.0009920000000001E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	5.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:33.6475790000000000157	
+X_Dimension	Time	
+X0	5.0012679999999996E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	6.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:34.6478620000000000489	
+X_Dimension	Time	
+X0	6.0015510000000001E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	7.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:35.6481360000000000454	
+X_Dimension	Time	
+X0	7.0018250000000002E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	8.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:36.6484240000000000004	
+X_Dimension	Time	
+X0	8.0021129999999996E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	9.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:37.6487020000000000008	
+X_Dimension	Time	
+X0	9.0023909999999994E+0	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	10.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:38.6489740000000000508	
+X_Dimension	Time	
+X0	1.0002663000000000E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	11.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:39.649240999999999957	
+X_Dimension	Time	
+X0	1.1002929999999999E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	12.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:40.6494919999999999582	
+X_Dimension	Time	
+X0	1.2003181000000000E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	13.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:41.6497619999999999507	
+X_Dimension	Time	
+X0	1.3003451000000000E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	14.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:42.6500620000000000287	
+X_Dimension	Time	
+X0	1.4003750999999999E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	15.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:43.6503370000000000539	
+X_Dimension	Time	
+X0	1.5004026000000000E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	16.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:44.6506119999999999681	
+X_Dimension	Time	
+X0	1.6004301000000002E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	17.000000
+
+Channels	1	
+Samples	1	
+Date	2021/05/31	
+Time	23:16:45.6508920000000000261	
+X_Dimension	Time	
+X0	1.7004581000000002E+1	
+Delta_X	1.000000	
+***End_of_Header***		
+X_Value	Untitled	Comment
+	18.000000
+

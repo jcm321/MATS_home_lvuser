@@ -1,0 +1,4 @@
+DEBUG: XInputExtension version is 2.3
+DEBUG: Skipping virtual master devices and devices without axis valuators.
+DEBUG: Skipping device 'Virtual core XTEST pointer' id=4, does not report Absolute events.
+DEBUG: Skipping device 'USB Optical Mouse' id=10, does not report Absolute events.

@@ -1,0 +1,32 @@
+LabVIEW Measurement	
+Writer_Version	2
+Reader_Version	2
+Separator	Tab
+Decimal_Separator	.
+Multi_Headings	No
+X_Columns	One
+Time_Pref	Absolute
+Operator	lvuser
+Date	2021/06/03
+Time	20:27:56.053386999999999997
+***End_of_Header***	
+	
+Channels	1	
+Samples	10	
+Date	2021/06/03	
+Time	20:27:56.053386999999999997	
+X_Dimension	Time	
+X0	0.0000000000000000E+0	
+Delta_X	0.010000	
+***End_of_Header***		
+X_Value	Triangle with Uniform Noise	Comment
+0.000000	0.047962
+0.010000	5.709969
+0.020000	11.584709
+0.030000	11.943902
+0.040000	6.557857
+0.050000	-0.222443
+0.060000	-5.759043
+0.070000	-11.700716
+0.080000	-12.255498
+0.090000	-5.431850

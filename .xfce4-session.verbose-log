@@ -1,0 +1,111 @@
+log file opened
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "xset -dpms"
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "/usr/local/natinst/bin/dual-monitor-setup.sh"
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "xset s off"
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "/usr/lib/xfce4/notifyd/xfce4-notifyd"
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:681] xfsm_startup_autostart_xdg(): start_at_spi (a11y support), skipping
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "xfsettingsd"
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:649] xfsm_startup_autostart_xdg(): only show in XFCE set, launching
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:700] xfsm_startup_autostart_xdg(): TryExec set and xfsm_check_valid_exec failed, skipping
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:629] xfsm_startup_autostart_xdg(): hidden set
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-startup.c:712] xfsm_startup_autostart_xdg(): Autostart: running command "/usr/bin/xinput_calibrator_once.sh"
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:823] xfsm_manager_signal_startup_done(): Manager finished startup, entering IDLE mode now
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:303] xfsm_manager_set_state(): 
+state is now XFSM_MANAGER_IDLE
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:162] sm_new_client(): ICE connection fd = 12, received NEW CLIENT
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:162] sm_new_client(): ICE connection fd = 13, received NEW CLIENT
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:162] sm_new_client(): ICE connection fd = 14, received NEW CLIENT
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:213] sm_register_client(): ICE connection fd = 12, received REGISTER CLIENT [Previous Id = None]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:213] sm_register_client(): ICE connection fd = 13, received REGISTER CLIENT [Previous Id = None]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:213] sm_register_client(): ICE connection fd = 14, received REGISTER CLIENT [Previous Id = None]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:162] sm_new_client(): ICE connection fd = 15, received NEW CLIENT
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:213] sm_register_client(): ICE connection fd = 15, received REGISTER CLIENT [Previous Id = None]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (Program, xfce4-panel)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (UserID, lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (RestartStyleHint, 2)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (ProcessID, 1456)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (CurrentDirectory, /home/lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (_GSM_Priority, 25)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (CloneCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (DiscardCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (Program, Thunar)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (RestartCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (UserID, lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (_GSM_Priority, 24)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:304] sm_save_yourself_done(): Client Id = 10e4bea556000162672879700000014410003, received SAVE YOURSELF DONE [Success = True]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:1295] xfsm_manager_save_yourself_done(): enteringTRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (Program, xfsettingsd)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (UserID, lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (RestartStyleHint, 2)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (ProcessID, 1458)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (CurrentDirectory, /home/lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (_GSM_Priority, 25)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (_GSM_DesktopFile, /etc/xdg/autostart/xfsettingsd.desktop)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (Program, xfdesktop)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (UserID, lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (RestartStyleHint, 2)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (ProcessID, 1461)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (CurrentDirectory, /home/lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (_GSM_Priority, 35)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (RestartCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (CloneCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:304] sm_save_yourself_done(): Client Id = 10e4bea556000162672879700000014410002, received SAVE YOURSELF DONE [Success = True]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:1295] xfsm_manager_save_yourself_done(): enteringTRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (RestartCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (CloneCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:304] sm_save_yourself_done(): Client Id = 10e4bea556000162672879700000014410004, received SAVE YOURSELF DONE [Success = True]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:1295] xfsm_manager_save_yourself_done(): enteringTRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (RestartCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (CloneCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:304] sm_save_yourself_done(): Client Id = 10e4bea556000162672879700000014410001, received SAVE YOURSELF DONE [Success = True]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:1295] xfsm_manager_save_yourself_done(): enteringTRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:162] sm_new_client(): ICE connection fd = 16, received NEW CLIENT
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:213] sm_register_client(): ICE connection fd = 16, received REGISTER CLIENT [Previous Id = None]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (Program, xfwm4)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (UserID, lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (RestartStyleHint, 2)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (ProcessID, 1452)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (CurrentDirectory, /home/lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (_GSM_Priority, 15)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (RestartCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (CloneCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:304] sm_save_yourself_done(): Client Id = 10e4bea556000162672879800000014410005, received SAVE YOURSELF DONE [Success = True]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:1295] xfsm_manager_save_yourself_done(): enteringTRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:162] sm_new_client(): ICE connection fd = 17, received NEW CLIENT
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:213] sm_register_client(): ICE connection fd = 17, received REGISTER CLIENT [Previous Id = None]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (Program, xfce4-terminal)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (UserID, lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (RestartStyleHint, 0)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (ProcessID, 1534)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (CurrentDirectory, /home/lvuser)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:555] xfsm_properties_set_uchar(): -> Set uchar (_GSM_Priority, 50)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:489] xfsm_properties_set_string(): -> Set string (_GSM_DesktopFile, /usr/share/applications/xfce4-terminal.desktop)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-properties.c:629] xfsm_properties_set_from_smprop(): -> Set strv (CloneCommand)
+TRACE[../../xfce4-session-4.12.1/xfce4-session/sm-layer.c:304] sm_save_yourself_done(): Client Id = 10e4bea556000162672879800000014410006, received SAVE YOURSELF DONE [Success = True]
+
+TRACE[../../xfce4-session-4.12.1/xfce4-session/xfsm-manager.c:1295] xfsm_manager_save_yourself_done(): entering
