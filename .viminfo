@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1628097539,,"wq"
+|2,0,1628097830,,"wq"
 :wq!
 |2,0,1627044530,,"wq!"
 :q
@@ -29,30 +29,54 @@
 # Registers:
 
 # File marks:
-'0  4  20  ~/shell_test.py
-|4,48,4,20,1628097539,"~/shell_test.py"
-'1  1  0  ~/.git/config
-|4,49,1,0,1628095313,"~/.git/config"
-'2  1  0  ~/.git/config
-|4,50,1,0,1628089594,"~/.git/config"
-'3  1  0  ~/.git/config
-|4,51,1,0,1628089543,"~/.git/config"
-'4  1  0  ~/.git/config
-|4,52,1,0,1628089543,"~/.git/config"
-'5  1  0  ~/.gitconfig
-|4,53,1,0,1628089495,"~/.gitconfig"
-'6  1  0  ~/.gitconfig
-|4,54,1,0,1628089246,"~/.gitconfig"
-'7  3  46  /usr/local/natinst/labview/shell_test.py
-|4,55,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
-'8  3  46  /usr/local/natinst/labview/shell_test.py
-|4,56,3,46,1627044530,"/usr/local/natinst/labview/shell_test.py"
-'9  8  0  /usr/local/natinst/labview/shell_test.py
-|4,57,8,0,1626800926,"/usr/local/natinst/labview/shell_test.py"
+'0  5  0  ~/shell_test.py
+|4,48,5,0,1628097830,"~/shell_test.py"
+'1  8  14  ~/shell_test.py
+|4,49,8,14,1628097787,"~/shell_test.py"
+'2  8  14  ~/shell_test.py
+|4,50,8,14,1628097787,"~/shell_test.py"
+'3  8  14  ~/shell_test.py
+|4,51,8,14,1628097780,"~/shell_test.py"
+'4  8  14  ~/shell_test.py
+|4,52,8,14,1628097780,"~/shell_test.py"
+'5  6  20  ~/shell_test.py
+|4,53,6,20,1628097539,"~/shell_test.py"
+'6  4  20  ~/shell_test.py
+|4,54,4,20,1628097539,"~/shell_test.py"
+'7  6  20  ~/shell_test.py
+|4,55,6,20,1628097539,"~/shell_test.py"
+'8  4  20  ~/shell_test.py
+|4,56,4,20,1628097539,"~/shell_test.py"
+'9  6  20  ~/shell_test.py
+|4,57,6,20,1628097539,"~/shell_test.py"
 
 # Jumplist (newest first):
+-'  5  0  ~/shell_test.py
+|4,39,5,0,1628097830,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097821,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097787,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097780,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
 -'  4  20  ~/shell_test.py
 |4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
 -'  1  0  ~/shell_test.py
 |4,39,1,0,1628097500,"~/shell_test.py"
 -'  1  0  ~/.git/config
@@ -60,9 +84,93 @@
 -'  1  0  ~/.git/config
 |4,39,1,0,1628095313,"~/.git/config"
 -'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628095313,"~/.git/config"
+-'  1  0  ~/.git/config
 |4,39,1,0,1628089594,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089594,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628089543,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1628089543,"~/.git/config"
 -'  1  0  ~/.git/config
@@ -100,167 +208,65 @@
 -'  1  0  ~/.gitconfig
 |4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
+|4,39,1,0,1628089495,"~/.gitconfig"
 -'  1  0  ~/.gitconfig
-|4,39,1,0,1628089246,"~/.gitconfig"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
--'  3  46  /usr/local/natinst/labview/shell_test.py
-|4,39,3,46,1627044720,"/usr/local/natinst/labview/shell_test.py"
+|4,39,1,0,1628089495,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1628089495,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1628089495,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1628089495,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1628089495,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1628089495,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1628089495,"~/.gitconfig"
 
 # History of marks within files (newest to oldest):
 
 > ~/shell_test.py
-	*	1628097536	0
-	"	4	20
-	^	4	21
-	.	4	20
+	*	1628097828	0
+	"	5	0
+	^	5	0
+	.	5	0
+	+	6	0
+	+	6	20
+	+	5	21
+	+	5	0
+	+	7	0
+	+	8	14
 	+	4	0
-	+	4	20
+	+	5	0
 
 > ~/.git/config
 	*	1628095311	0
