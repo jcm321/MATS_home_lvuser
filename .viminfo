@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1628098130,,"wq"
+|2,0,1628101378,,"wq"
 :wq!
 |2,0,1627044530,,"wq!"
 :q
@@ -29,38 +29,86 @@
 # Registers:
 
 # File marks:
-'0  4  20  ~/shell_test.py
-|4,48,4,20,1628098130,"~/shell_test.py"
-'1  6  22  ~/shell_test.py
-|4,49,6,22,1628097913,"~/shell_test.py"
-'2  3  66  ~/shell_test.py
-|4,50,3,66,1628097830,"~/shell_test.py"
-'3  4  21  ~/shell_test.py
-|4,51,4,21,1628097830,"~/shell_test.py"
+'0  1  0  ~/.git-credentials
+|4,48,1,0,1628101378,"~/.git-credentials"
+'1  1  0  ~/.git/config
+|4,49,1,0,1628101351,"~/.git/config"
+'2  4  20  ~/shell_test.py
+|4,50,4,20,1628098130,"~/shell_test.py"
+'3  6  22  ~/shell_test.py
+|4,51,6,22,1628097913,"~/shell_test.py"
 '4  3  66  ~/shell_test.py
 |4,52,3,66,1628097830,"~/shell_test.py"
-'5  5  0  ~/shell_test.py
-|4,53,5,0,1628097830,"~/shell_test.py"
-'6  4  55  ~/shell_test.py
-|4,54,4,55,1628097787,"~/shell_test.py"
-'7  6  14  ~/shell_test.py
-|4,55,6,14,1628097787,"~/shell_test.py"
-'8  6  14  ~/shell_test.py
-|4,56,6,14,1628097787,"~/shell_test.py"
+'5  4  21  ~/shell_test.py
+|4,53,4,21,1628097830,"~/shell_test.py"
+'6  3  66  ~/shell_test.py
+|4,54,3,66,1628097830,"~/shell_test.py"
+'7  5  0  ~/shell_test.py
+|4,55,5,0,1628097830,"~/shell_test.py"
+'8  4  55  ~/shell_test.py
+|4,56,4,55,1628097787,"~/shell_test.py"
 '9  6  14  ~/shell_test.py
 |4,57,6,14,1628097787,"~/shell_test.py"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git-credentials
+|4,39,1,0,1628101378,"~/.git-credentials"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628101351,"~/.git/config"
+-'  1  0  ~/.git/config
+|4,39,1,0,1628101351,"~/.git/config"
 -'  4  20  ~/shell_test.py
 |4,39,4,20,1628098130,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628098130,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628098130,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628098130,"~/shell_test.py"
+-'  6  22  ~/shell_test.py
+|4,39,6,22,1628097913,"~/shell_test.py"
+-'  6  22  ~/shell_test.py
+|4,39,6,22,1628097913,"~/shell_test.py"
+-'  6  22  ~/shell_test.py
+|4,39,6,22,1628097913,"~/shell_test.py"
 -'  6  22  ~/shell_test.py
 |4,39,6,22,1628097913,"~/shell_test.py"
 -'  3  66  ~/shell_test.py
 |4,39,3,66,1628097869,"~/shell_test.py"
 -'  3  66  ~/shell_test.py
 |4,39,3,66,1628097869,"~/shell_test.py"
+-'  3  66  ~/shell_test.py
+|4,39,3,66,1628097869,"~/shell_test.py"
+-'  3  66  ~/shell_test.py
+|4,39,3,66,1628097869,"~/shell_test.py"
+-'  3  66  ~/shell_test.py
+|4,39,3,66,1628097869,"~/shell_test.py"
+-'  3  66  ~/shell_test.py
+|4,39,3,66,1628097869,"~/shell_test.py"
+-'  3  66  ~/shell_test.py
+|4,39,3,66,1628097869,"~/shell_test.py"
+-'  3  66  ~/shell_test.py
+|4,39,3,66,1628097869,"~/shell_test.py"
 -'  5  0  ~/shell_test.py
 |4,39,5,0,1628097830,"~/shell_test.py"
+-'  5  0  ~/shell_test.py
+|4,39,5,0,1628097830,"~/shell_test.py"
+-'  5  0  ~/shell_test.py
+|4,39,5,0,1628097830,"~/shell_test.py"
+-'  5  0  ~/shell_test.py
+|4,39,5,0,1628097830,"~/shell_test.py"
+-'  6  14  ~/shell_test.py
+|4,39,6,14,1628097821,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097821,"~/shell_test.py"
+-'  6  14  ~/shell_test.py
+|4,39,6,14,1628097821,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097821,"~/shell_test.py"
+-'  6  14  ~/shell_test.py
+|4,39,6,14,1628097821,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097821,"~/shell_test.py"
 -'  6  14  ~/shell_test.py
 |4,39,6,14,1628097821,"~/shell_test.py"
 -'  8  14  ~/shell_test.py
@@ -68,7 +116,43 @@
 -'  8  14  ~/shell_test.py
 |4,39,8,14,1628097787,"~/shell_test.py"
 -'  8  14  ~/shell_test.py
+|4,39,8,14,1628097787,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097787,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097787,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
 |4,39,8,14,1628097780,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097780,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097780,"~/shell_test.py"
+-'  8  14  ~/shell_test.py
+|4,39,8,14,1628097780,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
+-'  6  20  ~/shell_test.py
+|4,39,6,20,1628097705,"~/shell_test.py"
 -'  4  20  ~/shell_test.py
 |4,39,4,20,1628097705,"~/shell_test.py"
 -'  6  20  ~/shell_test.py
@@ -83,6 +167,60 @@
 |4,39,4,20,1628097539,"~/shell_test.py"
 -'  4  20  ~/shell_test.py
 |4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  4  20  ~/shell_test.py
+|4,39,4,20,1628097539,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
+-'  1  0  ~/shell_test.py
+|4,39,1,0,1628097500,"~/shell_test.py"
 -'  1  0  ~/shell_test.py
 |4,39,1,0,1628097500,"~/shell_test.py"
 -'  1  0  ~/shell_test.py
@@ -113,146 +251,16 @@
 |4,39,1,0,1628095313,"~/.git/config"
 -'  1  0  ~/.git/config
 |4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628095313,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1628089594,"~/.git/config"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git-credentials
+	*	1628101375	0
+	"	1	0
+
+> ~/.git/config
+	*	1628101350	0
+	"	1	0
 
 > ~/shell_test.py
 	*	1628098128	0
@@ -272,10 +280,6 @@
 	+	4	41
 	+	5	0
 	+	4	21
-
-> ~/.git/config
-	*	1628095311	0
-	"	1	0
 
 > ~/.gitconfig
 	*	1628089493	0
